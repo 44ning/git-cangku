@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Escshop" duration-ms="282528" started-at="2018-01-13T01:26:28Z" finished-at="2018-01-13T01:31:10Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="282528" started-at="2018-01-13T01:26:28Z" finished-at="2018-01-13T01:31:10Z">
+      <class name="testcase.TestCase_002_BuyGoods">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_002_BuyGoods@3b81a1bc]" name="setUp" is-config="true" duration-ms="3761" started-at="2018-01-13T09:27:27Z" finished-at="2018-01-13T09:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GSMPhone()[pri:0, instance:testcase.TestCase_002_BuyGoods@3b81a1bc]" name="GSMPhone" duration-ms="34374" started-at="2018-01-13T09:27:31Z" finished-at="2018-01-13T09:28:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GSMPhone -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_002_BuyGoods@3b81a1bc]" name="tearDown" is-config="true" duration-ms="1689" started-at="2018-01-13T09:28:05Z" finished-at="2018-01-13T09:28:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_002_BuyGoods -->
+      <class name="testcase.TestCase_001_userCenter">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_userCenter@60addb54]" name="setUp" is-config="true" duration-ms="3267" started-at="2018-01-13T09:31:01Z" finished-at="2018-01-13T09:31:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userCenter()[pri:0, instance:testcase.TestCase_001_userCenter@60addb54]" name="userCenter" duration-ms="3924" started-at="2018-01-13T09:31:05Z" finished-at="2018-01-13T09:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userCenter -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_userCenter@60addb54]" name="tearDown" is-config="true" duration-ms="1564" started-at="2018-01-13T09:31:09Z" finished-at="2018-01-13T09:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_userCenter -->
+      <class name="testcase.TestCase_001_register">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_register@26ba2a48]" name="setUp" is-config="true" duration-ms="3461" started-at="2018-01-13T09:26:35Z" finished-at="2018-01-13T09:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register()[pri:0, instance:testcase.TestCase_001_register@26ba2a48]" name="register" duration-ms="29065" started-at="2018-01-13T09:26:39Z" finished-at="2018-01-13T09:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_register@26ba2a48]" name="tearDown" is-config="true" duration-ms="1935" started-at="2018-01-13T09:27:08Z" finished-at="2018-01-13T09:27:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_register -->
+      <class name="testcase.TestCase_002_Sou">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_002_Sou@62043840]" name="setUp" is-config="true" duration-ms="3558" started-at="2018-01-13T09:30:11Z" finished-at="2018-01-13T09:30:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="choiceShopping()[pri:0, instance:testcase.TestCase_002_Sou@62043840]" name="choiceShopping" duration-ms="4404" started-at="2018-01-13T09:30:14Z" finished-at="2018-01-13T09:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- choiceShopping -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_002_Sou@62043840]" name="tearDown" is-config="true" duration-ms="1644" started-at="2018-01-13T09:30:18Z" finished-at="2018-01-13T09:30:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_002_Sou -->
+      <class name="testcase.TestCase_001_YouHui">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_YouHui@17550481]" name="setUp" is-config="true" duration-ms="3673" started-at="2018-01-13T09:29:00Z" finished-at="2018-01-13T09:29:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="youHui()[pri:0, instance:testcase.TestCase_001_YouHui@17550481]" name="youHui" duration-ms="10215" started-at="2018-01-13T09:29:04Z" finished-at="2018-01-13T09:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youHui -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_YouHui@17550481]" name="tearDown" is-config="true" duration-ms="1845" started-at="2018-01-13T09:29:14Z" finished-at="2018-01-13T09:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_YouHui -->
+      <class name="testcase.TestCase_004_Sou">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_004_Sou@5315b42e]" name="setUp" is-config="true" duration-ms="3727" started-at="2018-01-13T09:30:20Z" finished-at="2018-01-13T09:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="topSouSuo()[pri:0, instance:testcase.TestCase_004_Sou@5315b42e]" name="topSouSuo" duration-ms="4727" started-at="2018-01-13T09:30:24Z" finished-at="2018-01-13T09:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topSouSuo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_004_Sou@5315b42e]" name="tearDown" is-config="true" duration-ms="1665" started-at="2018-01-13T09:30:29Z" finished-at="2018-01-13T09:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_004_Sou -->
+      <class name="testcase.TestCase_001_BuyGoods">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_BuyGoods@5f2050f6]" name="setUp" is-config="true" duration-ms="3511" started-at="2018-01-13T09:27:10Z" finished-at="2018-01-13T09:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SpecialOffer()[pri:0, instance:testcase.TestCase_001_BuyGoods@5f2050f6]" name="SpecialOffer" duration-ms="11882" started-at="2018-01-13T09:27:13Z" finished-at="2018-01-13T09:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecialOffer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_BuyGoods@5f2050f6]" name="tearDown" is-config="true" duration-ms="1922" started-at="2018-01-13T09:27:25Z" finished-at="2018-01-13T09:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_BuyGoods -->
+      <class name="testcase.TestCase_001_Comment">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_Comment@5d624da6]" name="setUp" is-config="true" duration-ms="3704" started-at="2018-01-13T09:30:40Z" finished-at="2018-01-13T09:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="pingJia()[pri:0, instance:testcase.TestCase_001_Comment@5d624da6]" name="pingJia" duration-ms="5523" started-at="2018-01-13T09:30:44Z" finished-at="2018-01-13T09:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pingJia -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_Comment@5d624da6]" name="tearDown" is-config="true" duration-ms="1859" started-at="2018-01-13T09:30:49Z" finished-at="2018-01-13T09:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_Comment -->
+      <class name="testcase.TestCase_002_shoppingCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_002_shoppingCart@13fee20c]" name="setUp" is-config="true" duration-ms="3638" started-at="2018-01-13T09:28:25Z" finished-at="2018-01-13T09:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="delete2()[pri:0, instance:testcase.TestCase_002_shoppingCart@13fee20c]" name="delete2" duration-ms="7944" started-at="2018-01-13T09:28:29Z" finished-at="2018-01-13T09:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_002_shoppingCart@13fee20c]" name="tearDown" is-config="true" duration-ms="1790" started-at="2018-01-13T09:28:37Z" finished-at="2018-01-13T09:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_002_shoppingCart -->
+      <class name="testcase.TestCase_002_Comment">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_002_Comment@1e67b872]" name="setUp" is-config="true" duration-ms="3648" started-at="2018-01-13T09:30:51Z" finished-at="2018-01-13T09:30:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="youKePingJia()[pri:0, instance:testcase.TestCase_002_Comment@1e67b872]" name="youKePingJia" duration-ms="4602" started-at="2018-01-13T09:30:55Z" finished-at="2018-01-13T09:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youKePingJia -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_002_Comment@1e67b872]" name="tearDown" is-config="true" duration-ms="2034" started-at="2018-01-13T09:30:59Z" finished-at="2018-01-13T09:31:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_002_Comment -->
+      <class name="testcase.TestCase_003_shoppingCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_003_shoppingCart@4e04a765]" name="setUp" is-config="true" duration-ms="3577" started-at="2018-01-13T09:28:38Z" finished-at="2018-01-13T09:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="delete1()[pri:0, instance:testcase.TestCase_003_shoppingCart@4e04a765]" name="delete1" duration-ms="5673" started-at="2018-01-13T09:28:42Z" finished-at="2018-01-13T09:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_003_shoppingCart@4e04a765]" name="tearDown" is-config="true" duration-ms="1939" started-at="2018-01-13T09:28:48Z" finished-at="2018-01-13T09:28:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_003_shoppingCart -->
+      <class name="testcase.TestCase_004_shoppingCar">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_004_shoppingCar@783e6358]" name="setUp" is-config="true" duration-ms="3543" started-at="2018-01-13T09:28:50Z" finished-at="2018-01-13T09:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="gengXin()[pri:0, instance:testcase.TestCase_004_shoppingCar@783e6358]" name="gengXin" duration-ms="5219" started-at="2018-01-13T09:28:53Z" finished-at="2018-01-13T09:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gengXin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_004_shoppingCar@783e6358]" name="tearDown" is-config="true" duration-ms="1712" started-at="2018-01-13T09:28:58Z" finished-at="2018-01-13T09:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_004_shoppingCar -->
+      <class name="testcase.TestCase_001_login">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_login@42d3bd8b]" name="setUp" is-config="true" duration-ms="4389" started-at="2018-01-13T09:26:28Z" finished-at="2018-01-13T09:26:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String)[pri:0, instance:testcase.TestCase_001_login@42d3bd8b]" name="login" duration-ms="1016" started-at="2018-01-13T09:26:32Z" data-provider="testdata" finished-at="2018-01-13T09:26:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lili]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ning10494]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_login@42d3bd8b]" name="tearDown" is-config="true" duration-ms="1837" started-at="2018-01-13T09:26:33Z" finished-at="2018-01-13T09:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_login -->
+      <class name="testcase.TestCase_003_Sou">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_003_Sou@246ae04d]" name="setUp" is-config="true" duration-ms="3724" started-at="2018-01-13T09:30:04Z" finished-at="2018-01-13T09:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="productInfromation()[pri:0, instance:testcase.TestCase_003_Sou@246ae04d]" name="productInfromation" duration-ms="710" started-at="2018-01-13T09:30:08Z" finished-at="2018-01-13T09:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfromation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_003_Sou@246ae04d]" name="tearDown" is-config="true" duration-ms="1795" started-at="2018-01-13T09:30:09Z" finished-at="2018-01-13T09:30:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_003_Sou -->
+      <class name="testcase.TestCase_001_Sou">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_Sou@2c6a3f77]" name="setUp" is-config="true" duration-ms="3600" started-at="2018-01-13T09:29:55Z" finished-at="2018-01-13T09:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="souSuo()[pri:0, instance:testcase.TestCase_001_Sou@2c6a3f77]" name="souSuo" duration-ms="3562" started-at="2018-01-13T09:29:59Z" finished-at="2018-01-13T09:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- souSuo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_Sou@2c6a3f77]" name="tearDown" is-config="true" duration-ms="1902" started-at="2018-01-13T09:30:02Z" finished-at="2018-01-13T09:30:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_Sou -->
+      <class name="testcase.TestCase_001_Integral">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_Integral@735f7ae5]" name="setUp" is-config="true" duration-ms="3445" started-at="2018-01-13T09:29:16Z" finished-at="2018-01-13T09:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jiFen()[pri:0, instance:testcase.TestCase_001_Integral@735f7ae5]" name="jiFen" duration-ms="9439" started-at="2018-01-13T09:29:19Z" finished-at="2018-01-13T09:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiFen -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_Integral@735f7ae5]" name="tearDown" is-config="true" duration-ms="1936" started-at="2018-01-13T09:29:29Z" finished-at="2018-01-13T09:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_Integral -->
+      <class name="testcase.TestCase_005_Sou">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_005_Sou@2ef9b8bc]" name="setUp" is-config="true" duration-ms="3630" started-at="2018-01-13T09:30:30Z" finished-at="2018-01-13T09:30:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="listSouSuo()[pri:0, instance:testcase.TestCase_005_Sou@2ef9b8bc]" name="listSouSuo" duration-ms="4386" started-at="2018-01-13T09:30:34Z" finished-at="2018-01-13T09:30:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listSouSuo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_005_Sou@2ef9b8bc]" name="tearDown" is-config="true" duration-ms="1796" started-at="2018-01-13T09:30:38Z" finished-at="2018-01-13T09:30:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_005_Sou -->
+      <class name="testcase.TestCase_001_Message">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_Message@180bc464]" name="setUp" is-config="true" duration-ms="3771" started-at="2018-01-13T09:29:31Z" finished-at="2018-01-13T09:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="jiFen()[pri:0, instance:testcase.TestCase_001_Message@180bc464]" name="jiFen" duration-ms="6923" started-at="2018-01-13T09:29:34Z" finished-at="2018-01-13T09:29:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jiFen -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_Message@180bc464]" name="tearDown" is-config="true" duration-ms="2079" started-at="2018-01-13T09:29:41Z" finished-at="2018-01-13T09:29:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_Message -->
+      <class name="testcase.TestCase_002_Message">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_002_Message@1324409e]" name="setUp" is-config="true" duration-ms="3767" started-at="2018-01-13T09:29:43Z" finished-at="2018-01-13T09:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="youKeLiuYan()[pri:0, instance:testcase.TestCase_002_Message@1324409e]" name="youKeLiuYan" duration-ms="6243" started-at="2018-01-13T09:29:47Z" finished-at="2018-01-13T09:29:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- youKeLiuYan -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_002_Message@1324409e]" name="tearDown" is-config="true" duration-ms="1732" started-at="2018-01-13T09:29:53Z" finished-at="2018-01-13T09:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_002_Message -->
+      <class name="testcase.TestCase_001_shoppingCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestCase_001_shoppingCart@64616ca2]" name="setUp" is-config="true" duration-ms="3520" started-at="2018-01-13T09:28:07Z" finished-at="2018-01-13T09:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="collectShop()[pri:0, instance:testcase.TestCase_001_shoppingCart@64616ca2]" name="collectShop" duration-ms="13103" started-at="2018-01-13T09:28:10Z" finished-at="2018-01-13T09:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- collectShop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestCase_001_shoppingCart@64616ca2]" name="tearDown" is-config="true" duration-ms="1812" started-at="2018-01-13T09:28:23Z" finished-at="2018-01-13T09:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestCase_001_shoppingCart -->
+    </test> <!-- test -->
+  </suite> <!-- Escshop -->
+</testng-results>

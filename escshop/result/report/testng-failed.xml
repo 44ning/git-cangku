@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Escshop]">
+  <test name="test">
+    <classes>
+      <class name="testcase.TestCase_001_login"/>
+      <class name="testcase.TestCase_001_register"/>
+      <class name="testcase.TestCase_001_BuyGoods"/>
+      <class name="testcase.TestCase_002_BuyGoods"/>
+      <class name="testcase.TestCase_001_shoppingCart"/>
+      <class name="testcase.TestCase_002_shoppingCart"/>
+      <class name="testcase.TestCase_003_shoppingCart"/>
+      <class name="testcase.TestCase_004_shoppingCar"/>
+      <class name="testcase.TestCase_001_YouHui"/>
+      <class name="testcase.TestCase_001_Integral"/>
+      <class name="testcase.TestCase_001_Message"/>
+      <class name="testcase.TestCase_002_Message"/>
+      <class name="testcase.TestCase_001_Sou"/>
+      <class name="testcase.TestCase_003_Sou"/>
+      <class name="testcase.TestCase_002_Sou"/>
+      <class name="testcase.TestCase_004_Sou"/>
+      <class name="testcase.TestCase_005_Sou"/>
+      <class name="testcase.TestCase_001_Comment"/>
+      <class name="testcase.TestCase_002_Comment"/>
+      <class name="testcase.TestCase_001_userCenter"/>
+    </classes>
+  </test> <!-- test -->
+</suite> <!-- Failed suite [Escshop] -->

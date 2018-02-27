@@ -1,0 +1,22 @@
+[2018-02-06 11:04:27] [INFO] 查找到相应元素img
+[2018-02-06 11:04:27] [INFO] 对元素上进行 xpath: //*[@id="ECS_MEMBERZONE"]/a[1]/img点击
+[2018-02-06 11:04:27] [INFO] 查找到相应元素input
+[2018-02-06 11:04:28] [INFO] 在元素中 name: username上输入内容lili
+[2018-02-06 11:04:28] [INFO] 查找到相应元素input
+[2018-02-06 11:04:29] [INFO] 在元素中 name: password上输入内容ning10494
+[2018-02-06 11:04:29] [INFO] 查找到相应元素input
+[2018-02-06 11:04:30] [INFO] 对元素上进行 name: submit点击
+[2018-02-06 11:04:33] [INFO] 查找到相应元素a
+[2018-02-06 11:04:34] [INFO] 对元素上进行 xpath: //*[@id="category_tree"]/dl[1]/dd[1]/a点击
+[2018-02-06 11:04:34] [INFO] 查找到相应元素img
+[2018-02-06 11:04:35] [INFO] 对元素上进行 css selector: body > div:nth-child(8) > div.AreaR > div:nth-child(5) > div > form > div > div > div > a:nth-child(1) > img点击
+[2018-02-06 11:04:36] [INFO] 查找到相应元素img
+[2018-02-06 11:04:36] [INFO] 对元素上进行 css selector: #ECS_FORMBUY > ul > li:nth-child(8) > a:nth-child(1) > img点击
+[2018-02-06 11:04:39] [INFO] 查找到相应元素img
+[2018-02-06 11:04:39] [INFO] 对元素上进行 xpath: /html/body/div[7]/div[1]/table/tbody/tr/td[2]/a/img点击
+[2018-02-06 11:04:42] [INFO] 查找到相应元素input
+[2018-02-06 11:04:42] [INFO] 对元素上进行 name: shipping点击
+[2018-02-06 11:04:42] [INFO] 查找到相应元素input
+[2018-02-06 11:04:42] [INFO] 对元素上进行 css selector: #paymentTable > tbody > tr:nth-child(3) > td:nth-child(1) > input[type="radio"]点击
+[2018-02-06 11:04:43] [INFO] 查找到相应元素input
+[2018-02-06 11:04:44] [INFO] 对元素上进行 css selector: #theForm > div:nth-child(16) > div:nth-child(3) > input[type="image"]:nth-child(1)点击

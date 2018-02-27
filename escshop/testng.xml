@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Escshop">
+    <test name="test">
+    <classes>
+        <class name="testcase.TestCase_001_login"></class>
+        <class name="testcase.TestCase_001_register"></class>
+
+        <class name="testcase.TestCase_001_BuyGoods"></class>
+        <class name="testcase.TestCase_002_BuyGoods"></class>
+
+        <class name="testcase.TestCase_001_shoppingCart"></class>
+        <class name="testcase.TestCase_002_shoppingCart"></class>
+        <class name="testcase.TestCase_003_shoppingCart"></class>
+        <class name="testcase.TestCase_004_shoppingCar"></class>
+
+        <class name="testcase.TestCase_001_YouHui"></class>
+        <class name="testcase.TestCase_001_Integral"></class>
+
+        <class name="testcase.TestCase_001_Message"></class>
+        <class name="testcase.TestCase_002_Message"></class>
+
+        <class name="testcase.TestCase_001_Sou"></class>
+        <class name="testcase.TestCase_003_Sou"></class>
+        <class name="testcase.TestCase_002_Sou"></class>
+        <class name="testcase.TestCase_004_Sou"></class>
+        <class name="testcase.TestCase_005_Sou"></class>
+
+        <class name="testcase.TestCase_001_Comment"></class>
+        <class name="testcase.TestCase_002_Comment"></class>
+        <class name="testcase.TestCase_001_userCenter"></class>
+    </classes>
+    </test>
+</suite>

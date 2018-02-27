@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>TestNG:  test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sat Jan 13 09:26:28 CST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>282 seconds (282528 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testcase.TestCase_002_BuyGoods.GSMPhone()'><b>GSMPhone</b><br>Test class: testcase.TestCase_002_BuyGoods</td>
+<td></td>
+<td>34</td>
+<td>testcase.TestCase_002_BuyGoods@3b81a1bc</td></tr>
+<tr>
+<td title='testcase.TestCase_001_BuyGoods.SpecialOffer()'><b>SpecialOffer</b><br>Test class: testcase.TestCase_001_BuyGoods</td>
+<td></td>
+<td>11</td>
+<td>testcase.TestCase_001_BuyGoods@5f2050f6</td></tr>
+<tr>
+<td title='testcase.TestCase_002_Sou.choiceShopping()'><b>choiceShopping</b><br>Test class: testcase.TestCase_002_Sou</td>
+<td></td>
+<td>4</td>
+<td>testcase.TestCase_002_Sou@62043840</td></tr>
+<tr>
+<td title='testcase.TestCase_001_shoppingCart.collectShop()'><b>collectShop</b><br>Test class: testcase.TestCase_001_shoppingCart</td>
+<td></td>
+<td>13</td>
+<td>testcase.TestCase_001_shoppingCart@64616ca2</td></tr>
+<tr>
+<td title='testcase.TestCase_003_shoppingCart.delete1()'><b>delete1</b><br>Test class: testcase.TestCase_003_shoppingCart</td>
+<td></td>
+<td>5</td>
+<td>testcase.TestCase_003_shoppingCart@4e04a765</td></tr>
+<tr>
+<td title='testcase.TestCase_002_shoppingCart.delete2()'><b>delete2</b><br>Test class: testcase.TestCase_002_shoppingCart</td>
+<td></td>
+<td>7</td>
+<td>testcase.TestCase_002_shoppingCart@13fee20c</td></tr>
+<tr>
+<td title='testcase.TestCase_004_shoppingCar.gengXin()'><b>gengXin</b><br>Test class: testcase.TestCase_004_shoppingCar</td>
+<td></td>
+<td>5</td>
+<td>testcase.TestCase_004_shoppingCar@783e6358</td></tr>
+<tr>
+<td title='testcase.TestCase_001_Integral.jiFen()'><b>jiFen</b><br>Test class: testcase.TestCase_001_Integral</td>
+<td></td>
+<td>9</td>
+<td>testcase.TestCase_001_Integral@735f7ae5</td></tr>
+<tr>
+<td title='testcase.TestCase_001_Message.jiFen()'><b>jiFen</b><br>Test class: testcase.TestCase_001_Message</td>
+<td></td>
+<td>6</td>
+<td>testcase.TestCase_001_Message@180bc464</td></tr>
+<tr>
+<td title='testcase.TestCase_005_Sou.listSouSuo()'><b>listSouSuo</b><br>Test class: testcase.TestCase_005_Sou</td>
+<td></td>
+<td>4</td>
+<td>testcase.TestCase_005_Sou@2ef9b8bc</td></tr>
+<tr>
+<td title='testcase.TestCase_001_login.login()'><b>login</b><br>Test class: testcase.TestCase_001_login<br>Parameters: lili, ning10494</td>
+<td></td>
+<td>1</td>
+<td>testcase.TestCase_001_login@42d3bd8b</td></tr>
+<tr>
+<td title='testcase.TestCase_001_Comment.pingJia()'><b>pingJia</b><br>Test class: testcase.TestCase_001_Comment</td>
+<td></td>
+<td>5</td>
+<td>testcase.TestCase_001_Comment@5d624da6</td></tr>
+<tr>
+<td title='testcase.TestCase_003_Sou.productInfromation()'><b>productInfromation</b><br>Test class: testcase.TestCase_003_Sou</td>
+<td></td>
+<td>0</td>
+<td>testcase.TestCase_003_Sou@246ae04d</td></tr>
+<tr>
+<td title='testcase.TestCase_001_register.register()'><b>register</b><br>Test class: testcase.TestCase_001_register</td>
+<td></td>
+<td>29</td>
+<td>testcase.TestCase_001_register@26ba2a48</td></tr>
+<tr>
+<td title='testcase.TestCase_001_Sou.souSuo()'><b>souSuo</b><br>Test class: testcase.TestCase_001_Sou</td>
+<td></td>
+<td>3</td>
+<td>testcase.TestCase_001_Sou@2c6a3f77</td></tr>
+<tr>
+<td title='testcase.TestCase_004_Sou.topSouSuo()'><b>topSouSuo</b><br>Test class: testcase.TestCase_004_Sou</td>
+<td></td>
+<td>4</td>
+<td>testcase.TestCase_004_Sou@5315b42e</td></tr>
+<tr>
+<td title='testcase.TestCase_001_userCenter.userCenter()'><b>userCenter</b><br>Test class: testcase.TestCase_001_userCenter</td>
+<td></td>
+<td>3</td>
+<td>testcase.TestCase_001_userCenter@60addb54</td></tr>
+<tr>
+<td title='testcase.TestCase_001_YouHui.youHui()'><b>youHui</b><br>Test class: testcase.TestCase_001_YouHui</td>
+<td></td>
+<td>10</td>
+<td>testcase.TestCase_001_YouHui@17550481</td></tr>
+<tr>
+<td title='testcase.TestCase_002_Message.youKeLiuYan()'><b>youKeLiuYan</b><br>Test class: testcase.TestCase_002_Message</td>
+<td></td>
+<td>6</td>
+<td>testcase.TestCase_002_Message@1324409e</td></tr>
+<tr>
+<td title='testcase.TestCase_002_Comment.youKePingJia()'><b>youKePingJia</b><br>Test class: testcase.TestCase_002_Comment</td>
+<td></td>
+<td>4</td>
+<td>testcase.TestCase_002_Comment@1e67b872</td></tr>
+</table><p>
+</body>
+</html>
